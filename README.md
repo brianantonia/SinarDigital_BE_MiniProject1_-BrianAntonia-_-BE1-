@@ -36,7 +36,20 @@ Penyimpanan Data:** Data di-*post* dari *form* dan disimpan ke file **`data/data
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 
  1. Kloning Repository
-
-```bash
 git clone [GANTI_DENGAN_URL_REPOSITORY_ANDA]
 cd SinarDigital_BE_MiniProject1_[NAMA]_[KELAS]
+
+2. Instalasi Dependensi
+Instal package Node.js yang diperlukan (hanya Express.js).
+
+npm install
+
+3. Menjalankan Server
+Aplikasi akan berjalan pada Port 3000 secara default.
+
+npm start
+
+4. Akses Aplikasi
+Buka browser Anda dan kunjungi tautan berikut:
+
+http://localhost:3000

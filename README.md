@@ -1,10 +1,10 @@
-🐈 Cat Mood Tracker (Pencatat Suasana Hati Kucing)
+Cat Mood Tracker (Pencatat Suasana Hati Kucing)
 
 Mini Project 1 - Back End (Express.js)
 
 Brian Antonia - BE 1
 
-💡 Tema dan Deskripsi Proyek
+Tema dan Deskripsi Proyek
 
 Proyek ini adalah *prototype* aplikasi web *back-end* sederhana yang dikembangkan menggunakan **Express.js**. Aplikasi ini berfungsi sebagai **"Cat Mood Tracker"** (Pencatat Suasana Hati Kucing), yang memungkinkan pengguna untuk mencatat suasana hati (mood), nama kucing, dan deskripsi singkat dari kejadian yang memengaruhi mood tersebut.
 
@@ -13,7 +13,7 @@ Data yang diinput akan disimpan dalam format JSON (`data.json`) dan diproses unt
 **Keunikan Tema:**
 Tema "Cat Mood Tracker" dipilih untuk memenuhi syarat keunikan proyek, dengan fokus pada pengolahan data sederhana bertema peliharaan.
 
-🛠️ Persyaratan Proyek yang Terpenuhi
+Persyaratan Proyek yang Terpenuhi
 
 Proyek ini telah memenuhi semua persyaratan yang ditentukan, termasuk:
 
@@ -31,7 +31,7 @@ Penyimpanan Data:** Data di-*post* dari *form* dan disimpan ke file **`data/data
 
 ---
 
-#🚀 Cara Menjalankan Aplikasi (Lokal)
+Cara Menjalankan Aplikasi (Lokal)
 
 Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda:
 
